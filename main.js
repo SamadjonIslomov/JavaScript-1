@@ -4,3 +4,4 @@ console.log(`Siz ${age} yilda tug'ilgansz`)
 
 let miqdor = prompt("Oylik ish haqqingizni kiriting")
 miqdor = miqdor % 12
+console.log(`Siz Davlatga ${miqdor} shuncha miqdorida soliq berishingiz kerak`)
